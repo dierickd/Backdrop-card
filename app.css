@@ -19,7 +19,7 @@ body:before {
     background: linear-gradient(#ffc107, #e91e63);
     border-radius: 50%;
     top: 100px;
-    left: 0;
+    left: 50%;
 }
 
 .main {
